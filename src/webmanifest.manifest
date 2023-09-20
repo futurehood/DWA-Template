@@ -1,0 +1,16 @@
+{
+    "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+    "name": "DWA Template",
+    "short_name": "DWA Template",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "A bare-bones DWA template.",
+    "icons": [
+        {
+            "src": "/favicon.svg",
+            "sizes": "600x600",
+            "type": "image/svg+xml"
+        }
+    ]
+  }
